@@ -2,6 +2,8 @@
 
 [![codecov](https://codecov.io/gh/broadinstitute/celligner2/branch/main/graph/badge.svg?token=celligner2_token_here)](https://codecov.io/gh/broadinstitute/celligner2)
 [![CI](https://github.com/broadinstitute/celligner2/actions/workflows/main.yml/badge.svg)](https://github.com/broadinstitute/celligner2/actions/workflows/main.yml)
+[![DOI](https://zenodo.org/badge/1193485489.svg)](https://doi.org/10.5281/zenodo.19250147)
+
 
 Created by Jérémie Kalfon @jkobject (BroadInsitute, Celligner2 is a new version
 of the
